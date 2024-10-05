@@ -30,4 +30,4 @@ Minium values (simple works):
  - 30 USD
  - 6000 Robux
 
-📌 **IMPORTANT:** To view my work, dm me please.
+📌 **IMPORTANT:** To view my work, dm me on discord: "peteralm".
