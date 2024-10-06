@@ -12,7 +12,10 @@ Hi, I'm Peter, an advanced back-end (but I can be front-end) roblox scripter wit
 - Organised scripts and code
 - Optimised scripts on request
 - Very Fast delivery time
-- Security against exploiters on request
+- Open sources I know:
+ - Knit
+ - Profile Service 
+ - Topbar Plus
 
 # ✏️ What I'm doing now:
 - Working on Nooby Party Project
@@ -30,4 +33,4 @@ Minium values (simple works):
  - 30 USD
  - 6000 Robux
 
-📌 **IMPORTANT:** To view my work, dm me on discord: "peteralm".
+📌 **IMPORTANT:** To view my work, view my [GitHub](https://github.com/Peteralm/).
