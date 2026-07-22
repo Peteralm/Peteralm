@@ -1,1 +1,2 @@
-Hi, I'm Peter, an advanced back-end (but I can be front-end) roblox scripter with 125Mi+ contributed visits who has participated in teams. My clients are always satisfied with my fast turnaround, high quality and organized work in case you have an extra scripter in your team.
+Hi, I'm Peter. 
+An advanced fullstack roblox scripter with 125M+ contributed visits who has participated in teams.
